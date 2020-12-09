@@ -1,0 +1,9 @@
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\bin\Debug\netstandard2.0\eBikeShop.Core.deps.json
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\bin\Debug\netstandard2.0\eBikeShop.Core.dll
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\bin\Debug\netstandard2.0\eBikeShop.Core.pdb
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\obj\Debug\netstandard2.0\eBikeShop.Core.csprojAssemblyReference.cache
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\obj\Debug\netstandard2.0\eBikeShop.Core.AssemblyInfoInputs.cache
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\obj\Debug\netstandard2.0\eBikeShop.Core.AssemblyInfo.cs
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\obj\Debug\netstandard2.0\eBikeShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\obj\Debug\netstandard2.0\eBikeShop.Core.dll
+C:\Users\szymo\source\repos\eBikeShop.Core\eBikeShop.Core\obj\Debug\netstandard2.0\eBikeShop.Core.pdb

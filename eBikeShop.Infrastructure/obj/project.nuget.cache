@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfYiuHkqUW6R97gTD1slVRoM6K4wNCjdEN90gqY9SrNtelUGeYQOFj4A9yPtOnR1KQlw7C6afhMHu2lrjU7N9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szymo\\source\\repos\\eBikeShop.Core\\eBikeShop.Infrastructure\\eBikeShop.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
